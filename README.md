@@ -1,6 +1,10 @@
 # covid19
 materiais sobre SARS-CoV2 e a Covid-19
 
+## Artigos
+Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext
+
 ## COVID-19 Calculadora Epidêmica
 https://covid-calc.unb.br/
 Calculadora sobre a covid-19 elaborada pelo grupo da UnB. Possibilidade de simular para o Brasil e UF's
@@ -17,3 +21,6 @@ https://www.bbc.com/portuguese/geral-52389645?at_custom1=%5Bpost+type%5D&at_medi
 
 ## COVID-19 Coronavirus Pandemic
 https://www.worldometers.info/coronavirus/
+
+## Geopolítica do coronavírus
+https://www.publico.pt/2020/04/14/mundo/opiniao/geopolitica-coronavirus-1911550
