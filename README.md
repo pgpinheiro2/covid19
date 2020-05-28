@@ -1,9 +1,20 @@
 # covid19
 materiais sobre SARS-CoV2 e a Covid-19
 
+## Painéis *online*
+- https://covid19.healthdata.org/brazil
+
 ## Artigos
-Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis
+- http://pubcovid19.pt/temas.php
+
+Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions: https://science.sciencemag.org/content/early/2020/05/14/science.abb9789
+
+- Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext
+
+- https://www.nucleodoconhecimento.com.br/saude/predicao-da-propagacao
+
+- https://www1.folha.uol.com.br/equilibrioesaude/2020/05/modelo-usado-pela-casa-branca-projeta-88-mil-mortes-por-covid-19-no-brasil-ate-agosto.shtml
 
 ## COVID-19 Calculadora Epidêmica
 https://covid-calc.unb.br/
